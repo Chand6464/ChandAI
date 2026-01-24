@@ -14,6 +14,17 @@ A robust Discord.js v14 bot designed to automate the competitive tier-testing pr
 
 ---
 
+## 🛠 Commands
+
+* `/setup`
+* `/setupticket`
+* `/postresult`
+* `/closetest`
+
+### Everything is Simple, Fast and Furious 
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -24,5 +35,5 @@ A robust Discord.js v14 bot designed to automate the competitive tier-testing pr
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/Chand6464/ChandAI.git](https://github.com/Chand6464/ChandAI.git)
+   cd ChandAI
